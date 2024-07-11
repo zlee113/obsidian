@@ -1,0 +1,1 @@
+shows parents hash for specific commit when passed the p flag
