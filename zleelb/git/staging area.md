@@ -1,0 +1,1 @@
+Staging area represents the repo index and file directory that will be commited once the command is ran.

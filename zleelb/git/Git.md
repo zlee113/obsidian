@@ -15,4 +15,5 @@ Version control tool
 	- [[git push]]
 	- [[git commit]]
 	- [[git fetch]]
+	- [[git pull]]
 	- 

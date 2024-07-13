@@ -12,3 +12,7 @@ git branch -vv
 See the list of local branches and their upstream branches.
 
 you can also switch between branches using either [[git switch]] or [[git checkout]] and you can also use either to create a new branch
+
+To define an [[upstream branch]] for a branch you can use:
+`git branch -u shortname/branch_name`
+to be able to use [[git push]] and [[git pull]] freely without having to define it and use -vv for verbosity if you want to know if its been defined already.

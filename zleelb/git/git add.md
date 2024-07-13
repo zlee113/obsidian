@@ -12,3 +12,5 @@ Adds several files at once
 git add -A OR git add .
 ```
 Adds all new or modified files at once
+
+NOTE: If you add a file and DO NOT commit and then make more edits only the version of the file when you used git add is in the [[staging area]] and will be committed you must use git add again with the file for it to be added.
