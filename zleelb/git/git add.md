@@ -3,7 +3,7 @@ Hub: [[Git]]
 Tags: #book
 URL/Title: Learning Git
 
-Puts an untracked file that's in the [[working directory]] and adds it to the staging area. Once added it becomes tracked and git will now version control it. 
+Puts an untracked file that's in the [[working directory]] and adds it to the staging area. Once added it becomes tracked and git will now version control it. To remove you can use [[git restore]].
 
 ```
 git add <file>
