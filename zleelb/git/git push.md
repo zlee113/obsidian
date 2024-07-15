@@ -1,3 +1,8 @@
+Date: 2024-07-14
+Hub: [[Git]]
+Tags: #book
+URL/Title: Learning Git 
+
 Used to push local changes to the [[upstream branch]]. If the upstream branch is set you can push with no arguments and it will push automatically to it. You can also state the [[shortname]] and branch name as in: 
 `git push <shortname> <branch_name>` 
 which will upload from the branch of the local repo to the [[shortname]] remote repo as an individual branch.

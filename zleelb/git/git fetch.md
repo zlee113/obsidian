@@ -1,3 +1,8 @@
+Date: 2024-07-14
+Hub: [[Git]]
+Tags: #book
+URL/Title: Learning Git 
+
 In git, fetch represents retrieving information from a remote repo into a local one or just downloading data.
 
 `git fetch <shortname>`

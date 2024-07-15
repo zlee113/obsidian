@@ -1,3 +1,8 @@
+Date: 2024-07-14
+Hub: [[Git]]
+Tags: #book
+URL/Title: Learning Git 
+
 Used specifically to only switch branches, encapsulated by the git checkout command but more limited in scope and less popular
 
 ```

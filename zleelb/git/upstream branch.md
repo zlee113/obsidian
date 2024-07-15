@@ -1,3 +1,8 @@
+Date: 2024-07-14
+Hub: [[Git]]
+Tags: #book
+URL/Title: Learning Git 
+
 the upstream branch is the remote branch the local one is tracking that you can set explicitly
 
 a remote branch that a particular local branch tracks. Cloned repos automatically set up upstream branches. Two main benefits for defining upstream branches

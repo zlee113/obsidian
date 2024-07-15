@@ -1,3 +1,8 @@
+Date: 2024-07-14
+Hub: [[Git]]
+Tags: #book
+URL/Title: Learning Git 
+
 lists local branches, when used with a parameter after creates a new branch with that name off of the current commit for that branch. .git > refs > heads > name_of_branch should have the same commit hash and you can confirm by git log showing both branches for that specific commit you can use the:
 
 ```

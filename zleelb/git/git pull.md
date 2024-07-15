@@ -1,3 +1,8 @@
+Date: 2024-07-14
+Hub: [[Git]]
+Tags: #book
+URL/Title: Learning Git 
+
 Use to fetch data (same as [[git fetch]]) from a remote repo and integrate it into a branch in a local repo in a single go. 
 ```
 git pull <shortname> <branch_name>

@@ -1,3 +1,8 @@
+Date: 2024-07-14
+Hub: [[Git]]
+Tags: #book
+URL/Title: Learning Git
+
 Puts an untracked file that's in the [[working directory]] and adds it to the staging area. Once added it becomes tracked and git will now version control it. 
 
 ```
