@@ -21,3 +21,8 @@ you can also switch between branches using either [[git switch]] or [[git checko
 To define an [[upstream branch]] for a branch you can use:
 `git branch -u shortname/branch_name`
 to be able to use [[git push]] and [[git pull]] freely without having to define it and use -vv for verbosity if you want to know if its been defined already.
+
+If you want to delete a LOCAL branch you can simply use the d flag:
+```
+git branch -d <branch_name>
+```

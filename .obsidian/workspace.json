@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "0e6407dc6e2e41a1",
+        "id": "ec744f4ed84bc5f7",
         "type": "tabs",
         "children": [
           {
-            "id": "edb48f74709c51f2",
+            "id": "9f39b580af0c2913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git rebase.md",
+                "file": "POSIX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7af27ed6dcde2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cf2c60c50e2fe4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lscpu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "265c00f45871a15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "x86 architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a99b584f0bf880a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RISC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "574a2f63e42e9b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux process management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git rebase.md",
+                "file": "Linux process management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git rebase.md",
+                "file": "Linux process management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git rebase.md"
+                "file": "Linux process management.md"
               }
             }
           }
@@ -147,31 +208,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edb48f74709c51f2",
+  "active": "574a2f63e42e9b72",
   "lastOpenFiles": [
+    "Linux Kernel.md",
+    "Linux process management.md",
+    "RISC.md",
+    "x86 architecture.md",
+    "lscpu.md",
+    "BIOS.md",
+    "POSIX.md",
+    "zleelb/Hubs/linux.md",
+    "zleelb/Templates/Basic note template linux.md",
+    "zleelb/git/git branch.md",
+    "zleelb/git/git pull.md",
+    "zleelb/git/Pull Requests.md",
+    "zleelb/git/upstream branch.md",
+    "zleelb/git/git push.md",
+    "Errno.md",
+    "zleelb/git/git restore.md",
+    "zleelb/git/git rebase.md",
+    "zleelb/git/git cat-file.md",
+    "zleelb/git/git commit.md",
+    "zleelb/git/git log.md",
     "4913",
-    "git restore.md",
     "zleelb/git/git add.md",
-    "git rebase.md",
     "zleelb/git/merge conflict.md",
     "fscanf.md",
     "zleelb/Hubs/c.md",
     "zleelb/Templates/Basic note template c.md",
-    "zleelb/git/git pull.md",
-    "zleelb/git/git status.md",
-    "zleelb/git/Git.md",
-    "zleelb/git/three way merge.md",
-    "zleelb/git/git cat-file.md",
-    "zleelb/git/git merge.md",
-    "zleelb/git/git push.md",
-    "zleelb/git/staging area.md",
-    "zleelb/git/git branch.md",
-    "zleelb/git/upstream branch.md",
-    "zleelb/git/git fetch.md",
-    "zleelb/git/git init.md",
-    "zleelb/git/git log.md",
-    "zleelb/git/git remote.md",
-    "zleelb/git/git switch.md",
-    "zleelb/git/git checkout.md"
+    "zleelb/git/git status.md"
   ]
 }

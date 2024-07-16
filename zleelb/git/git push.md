@@ -12,3 +12,8 @@ deleting a branch is used to declutter and remain organized. it is important to 
 
 ERRORS:
 Git will only let you push if you integrate remote changes first before integrating new ones. So if the remote branch is updated before you push you must integrate those changes before you can push.
+
+To push and define an [[upstream branch]] in one go you can also use the push command with a flag:
+```
+git push --set-upstream <name> <branch>
+```
