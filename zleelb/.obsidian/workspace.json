@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d71f964a0c6808ae",
+        "id": "24a6bc4b99233211",
         "type": "tabs",
         "children": [
           {
-            "id": "1521b66f50b98977",
+            "id": "9532c0f425ee2ef5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git merge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d437594041d03b4c",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "git/git merge.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,40 +147,51 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1521b66f50b98977",
+  "active": "9532c0f425ee2ef5",
   "lastOpenFiles": [
-    "git/merge conflict.md",
+    "Notes/git/git clone.md",
+    "Notes/git/HEAD.md",
+    "Notes/git/git push.md",
+    "Notes/git/git branch.md",
+    "Notes/git/git fetch.md",
+    "Notes/git/git remote.md",
+    "Notes/git/git merge.md",
+    "Notes/git/git commit.md",
+    "git/git merge.md",
+    "Templates/Basic note template linux.md",
+    "Templates/Basic note template c.md",
+    "Notes/go/module.md",
+    "Notes/go/Lets GO.md",
+    "Notes/go/GO module.md",
+    "Notes/go/Host name matching.md",
+    "Notes/go/go run command.md",
+    "Notes/go/Default servemux.md",
+    "Notes/linux/x86 architecture.md",
+    "Notes/linux/RISC.md",
+    "Notes/linux/ps.md",
+    "Notes/linux/syscalls.md",
+    "Notes/linux/strace.md",
+    "Notes/linux/POSIX.md",
+    "Notes/linux/modules.md",
+    "Notes/linux/Linux networking.md",
+    "Notes/linux/Linux Kernel.md",
+    "Notes/go",
+    "Notes/linux",
+    "Notes/git",
+    "Notes/c",
+    "Notes",
+    "Images/Pasted image 20240717143201.png",
+    "Images/Pasted image 20240717144441.png",
+    "Images/Pasted image 20240717142512.png",
+    "Images/Pasted image 20240717135554.png",
+    "Images/Pasted image 20240714143534.png",
+    "Images",
     "imgs",
     "imgs/Pasted image 20240714143534.png",
-    "git/three way merge.md",
-    "git/upstream branch.md",
-    "Hubs/GO.md",
-    "Hubs/Git.md",
     "Hubs",
-    "git/staging area.md",
-    "git/shortname.md",
-    "git/hosting service.md",
-    "git/HEAD.md",
-    "git/git switch.md",
-    "git/git status.md",
-    "git/git remote.md",
-    "git/git push.md",
-    "git/git pull.md",
-    "git/git merge.md",
-    "git/git log.md",
-    "git/git init.md",
-    "git/git fetch.md",
-    "git/git commit.md",
-    "git/git clone.md",
-    "git/git checkout.md",
-    "git/git cat-file.md",
-    "git/git branch.md",
-    "Templates/Basic note template git.md",
-    "Templates/Basic note template.md",
     "Templates",
     "Untitled.canvas",
     "go",
-    "git",
     "Untitled 1.canvas"
   ]
 }
