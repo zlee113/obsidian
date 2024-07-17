@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ebf5a758f572a07",
+        "id": "a87102d16254ffb5",
         "type": "tabs",
         "children": [
           {
-            "id": "e80a1be60ba522a5",
+            "id": "70bd224d37fc891b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zleelb/Notes/linux/Linux Kernel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -161,17 +157,17 @@
     "zleelb/Notes/linux/Device Drivers.md",
     "zleelb/Notes/linux/syscalls.md",
     "zleelb/Notes/linux/modules.md",
-    "zleelb/imgs/Pasted image 20240717144441.png",
+    "zleelb/Images/Pasted image 20240717144441.png",
     "zleelb/Notes/linux/strace.md",
     "zleelb/Notes/git/HEAD.md",
-    "zleelb/imgs/Pasted image 20240717143201.png",
-    "zleelb/imgs/Pasted image 20240717142512.png",
+    "zleelb/Images/Pasted image 20240717143201.png",
+    "zleelb/Images/Pasted image 20240717142512.png",
     "zleelb/Notes/git/git push.md",
     "zleelb/Notes/c/fscanf.md",
     "zleelb/Notes/linux/Linux filesystems.md",
     "zleelb/Notes/linux/Linux networking.md",
     "zleelb/Notes/linux/Linux memory management.md",
-    "zleelb/imgs/Pasted image 20240717135554.png",
+    "zleelb/Images/Pasted image 20240717135554.png",
     "zleelb/Notes/linux/Linux process management.md",
     "zleelb/Notes/linux/ps.md",
     "zleelb/Hubs/linux.md",
