@@ -9,3 +9,4 @@ How does linux do process management:
 - Processes: An abstraction to group multiple resources which the kernel exposes to the user with /proc/self and identifies with process id (pid)
 - Threads: Implemented by the kernel as a process, a thread is a process that shares certain resources and identified with thread ids (tid) and thread group ids (tgid). 
 - Tasks: A data structure in the kernel defined in sched.h that forms the basis of implementing processes and threads.
+You can see these various groups using the [[ps]] command. 

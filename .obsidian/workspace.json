@@ -73,14 +73,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux process management.md",
+                "file": "Linux Kernel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73052544a2f07eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Device Drivers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f975c18d4682788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "syscalls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb578b4c665c910b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux process management.md",
+                "file": "modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux process management.md",
+                "file": "modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux process management.md"
+                "file": "modules.md"
               }
             }
           }
@@ -208,12 +245,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "574a2f63e42e9b72",
+  "active": "bb578b4c665c910b",
   "lastOpenFiles": [
-    "Linux Kernel.md",
-    "Linux process management.md",
-    "RISC.md",
+    "syscalls.md",
+    "modules.md",
+    "Pasted image 20240717144441.png",
+    "strace.md",
+    "zleelb/git/HEAD.md",
+    "Pasted image 20240717143201.png",
+    "zleelb/imgs/Pasted image 20240717142512.png",
     "x86 architecture.md",
+    "zleelb/git/git push.md",
+    "fscanf.md",
+    "Device Drivers.md",
+    "Linux Kernel.md",
+    "Linux filesystems.md",
+    "Linux networking.md",
+    "Linux memory management.md",
+    "zleelb/imgs/Pasted image 20240717135554.png",
+    "Linux process management.md",
+    "ps.md",
+    "RISC.md",
     "lscpu.md",
     "BIOS.md",
     "POSIX.md",
@@ -223,19 +275,8 @@
     "zleelb/git/git pull.md",
     "zleelb/git/Pull Requests.md",
     "zleelb/git/upstream branch.md",
-    "zleelb/git/git push.md",
     "Errno.md",
     "zleelb/git/git restore.md",
-    "zleelb/git/git rebase.md",
-    "zleelb/git/git cat-file.md",
-    "zleelb/git/git commit.md",
-    "zleelb/git/git log.md",
-    "4913",
-    "zleelb/git/git add.md",
-    "zleelb/git/merge conflict.md",
-    "fscanf.md",
-    "zleelb/Hubs/c.md",
-    "zleelb/Templates/Basic note template c.md",
-    "zleelb/git/git status.md"
+    "4913"
   ]
 }
