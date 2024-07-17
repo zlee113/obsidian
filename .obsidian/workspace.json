@@ -4,120 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ec744f4ed84bc5f7",
+        "id": "3ebf5a758f572a07",
         "type": "tabs",
         "children": [
           {
-            "id": "9f39b580af0c2913",
+            "id": "e80a1be60ba522a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSIX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7af27ed6dcde2bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cf2c60c50e2fe4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lscpu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "265c00f45871a15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "x86 architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a99b584f0bf880a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RISC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "574a2f63e42e9b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Kernel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73052544a2f07eec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Device Drivers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f975c18d4682788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "syscalls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb578b4c665c910b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "modules.md",
+                "file": "zleelb/Notes/linux/Linux Kernel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules.md",
+                "file": "zleelb/Notes/linux/Linux memory management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "modules.md",
+                "file": "zleelb/Notes/linux/Linux memory management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "modules.md"
+                "file": "zleelb/Notes/linux/Linux memory management.md"
               }
             }
           }
@@ -245,38 +147,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb578b4c665c910b",
+  "active": "a7b7e10ec6b1174d",
   "lastOpenFiles": [
-    "syscalls.md",
-    "modules.md",
-    "Pasted image 20240717144441.png",
-    "strace.md",
-    "zleelb/git/HEAD.md",
-    "Pasted image 20240717143201.png",
+    "zleelb/Notes/linux/Linux Kernel.md",
+    "zleelb/Notes/c",
+    "zleelb/Notes/linux",
+    "zleelb/Notes",
+    "zleelb/Notes/linux/POSIX.md",
+    "zleelb/Notes/linux/BIOS.md",
+    "zleelb/Notes/linux/lscpu.md",
+    "zleelb/Notes/linux/x86 architecture.md",
+    "zleelb/Notes/linux/RISC.md",
+    "zleelb/Notes/linux/Device Drivers.md",
+    "zleelb/Notes/linux/syscalls.md",
+    "zleelb/Notes/linux/modules.md",
+    "zleelb/imgs/Pasted image 20240717144441.png",
+    "zleelb/Notes/linux/strace.md",
+    "zleelb/Notes/git/HEAD.md",
+    "zleelb/imgs/Pasted image 20240717143201.png",
     "zleelb/imgs/Pasted image 20240717142512.png",
-    "x86 architecture.md",
-    "zleelb/git/git push.md",
-    "fscanf.md",
-    "Device Drivers.md",
-    "Linux Kernel.md",
-    "Linux filesystems.md",
-    "Linux networking.md",
-    "Linux memory management.md",
+    "zleelb/Notes/git/git push.md",
+    "zleelb/Notes/c/fscanf.md",
+    "zleelb/Notes/linux/Linux filesystems.md",
+    "zleelb/Notes/linux/Linux networking.md",
+    "zleelb/Notes/linux/Linux memory management.md",
     "zleelb/imgs/Pasted image 20240717135554.png",
-    "Linux process management.md",
-    "ps.md",
-    "RISC.md",
-    "lscpu.md",
-    "BIOS.md",
-    "POSIX.md",
+    "zleelb/Notes/linux/Linux process management.md",
+    "zleelb/Notes/linux/ps.md",
     "zleelb/Hubs/linux.md",
     "zleelb/Templates/Basic note template linux.md",
-    "zleelb/git/git branch.md",
-    "zleelb/git/git pull.md",
-    "zleelb/git/Pull Requests.md",
-    "zleelb/git/upstream branch.md",
-    "Errno.md",
-    "zleelb/git/git restore.md",
+    "zleelb/Notes/git/git branch.md",
+    "zleelb/Notes/git/git pull.md",
+    "zleelb/Notes/git/Pull Requests.md",
+    "zleelb/Notes/git/upstream branch.md",
+    "zleelb/Notes/c/Errno.md",
     "4913"
   ]
 }
