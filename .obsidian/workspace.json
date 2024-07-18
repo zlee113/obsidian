@@ -11,11 +11,28 @@
             "id": "70bd224d37fc891b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cbed7448f303b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "streams.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zleelb/Notes/linux/Linux memory management.md",
+                "file": "streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zleelb/Notes/linux/Linux memory management.md",
+                "file": "streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zleelb/Notes/linux/Linux memory management.md"
+                "file": "streams.md"
               }
             }
           }
@@ -143,8 +160,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7b7e10ec6b1174d",
+  "active": "2cbed7448f303b74",
   "lastOpenFiles": [
+    "shell.md",
+    "streams.md",
+    "terminal.md",
+    "zleelb/Notes/linux/Linux memory management.md",
     "zleelb/Notes/linux/Linux Kernel.md",
     "zleelb/Notes/c",
     "zleelb/Notes/linux",
@@ -166,7 +187,6 @@
     "zleelb/Notes/c/fscanf.md",
     "zleelb/Notes/linux/Linux filesystems.md",
     "zleelb/Notes/linux/Linux networking.md",
-    "zleelb/Notes/linux/Linux memory management.md",
     "zleelb/Images/Pasted image 20240717135554.png",
     "zleelb/Notes/linux/Linux process management.md",
     "zleelb/Notes/linux/ps.md",
@@ -175,8 +195,6 @@
     "zleelb/Notes/git/git branch.md",
     "zleelb/Notes/git/git pull.md",
     "zleelb/Notes/git/Pull Requests.md",
-    "zleelb/Notes/git/upstream branch.md",
-    "zleelb/Notes/c/Errno.md",
     "4913"
   ]
 }
