@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "streams.md",
+                "file": "shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "streams.md",
+                "file": "shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "streams.md",
+                "file": "shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "streams.md"
+                "file": "shell.md"
               }
             }
           }
@@ -162,9 +162,12 @@
   },
   "active": "2cbed7448f303b74",
   "lastOpenFiles": [
-    "shell.md",
     "streams.md",
+    "shell.md",
+    "zleelb/Notes/git/git cat-file.md",
     "terminal.md",
+    "Untitled.md",
+    "zleelb/Images/Pasted image 20240719112559.png",
     "zleelb/Notes/linux/Linux memory management.md",
     "zleelb/Notes/linux/Linux Kernel.md",
     "zleelb/Notes/c",
@@ -193,8 +196,6 @@
     "zleelb/Hubs/linux.md",
     "zleelb/Templates/Basic note template linux.md",
     "zleelb/Notes/git/git branch.md",
-    "zleelb/Notes/git/git pull.md",
-    "zleelb/Notes/git/Pull Requests.md",
     "4913"
   ]
 }

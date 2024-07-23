@@ -4,9 +4,9 @@ Tags: #book
 URL/Title: Learning Modern Linux
 
 Streams refer to inputs or outputs often shorthanded as I/O. Every shell has three default file descriptors
-- stdin: Standard input so the keyboard
-- stdout: Standard output so the monitor or shell terminal visuals
-- stderr: Standard output also a visual effect normally outputted to the monitor
+- stdin (FD 0): Standard input so the keyboard
+- stdout(FD 1): Standard output so the monitor or shell terminal visuals
+- stderr (FD 2): Standard output also a visual effect normally outputted to the monitor
 Streams can be redirected like sending all errors to files instead of being displayed.
 example:
 ```
