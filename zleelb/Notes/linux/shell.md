@@ -84,3 +84,7 @@ Cancel search Ctrl+g Some shell
 - head - can specify to cat file from top a specific amount of lines
 - tail - same as head but from the bottom
 - date - used to get a printout of the time and date
+
+##### Modern shells:
+- FIsh: User friendly shell with lots of configuration and history and autocomplete packed in, while still being very similar to bash.
+- Z-shell: Bourne like shell
