@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a87102d16254ffb5",
+        "id": "562fdbfe1d25b77e",
         "type": "tabs",
         "children": [
           {
-            "id": "70bd224d37fc891b",
+            "id": "19b0b9e8c5592991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zleelb/Notes/linux/terminal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cbed7448f303b74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zleelb/Notes/linux/shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c06b8c098a43f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tmux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c81d07f24b3bd2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zleelb/Notes/linux/Scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44219391b50ad952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zleelb/Notes/linux/Scripts.md",
+                "file": "zleelb/Notes/Computer Architecture/spatial locality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zleelb/Notes/linux/Scripts.md",
+                "file": "zleelb/Notes/Computer Architecture/spatial locality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zleelb/Notes/linux/Scripts.md",
+                "file": "zleelb/Notes/Computer Architecture/spatial locality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zleelb/Notes/linux/Scripts.md"
+                "file": "zleelb/Notes/Computer Architecture/spatial locality.md"
               }
             }
           }
@@ -198,13 +149,28 @@
   },
   "active": "a7b7e10ec6b1174d",
   "lastOpenFiles": [
-    "zleelb/Notes/linux/shell.md",
-    "SNMP.md",
-    "zleelb/Notes/linux/streams.md",
+    "zleelb/Hubs/Computer Architecture.md",
+    "zleelb/Notes/Computer Architecture/spatial locality.md",
+    "zleelb/Notes/Computer Architecture/temporal locality.md",
+    "zleelb/Notes/Computer Architecture/cache miss.md",
+    "zleelb/Notes/Computer Architecture/cache hit.md",
+    "zleelb/Notes/Computer Architecture/cache.md",
+    "zleelb/Notes/Computer Architecture/instruction-level parallelism.md",
+    "zleelb/Notes/Computer Architecture/advanced cache optimizations.md",
+    "zleelb/Notes/Computer Architecture/basic cache optimizations.md",
+    "zleelb/Notes/Computer Architecture/Untitled.md",
+    "zleelb/Notes/Computer Architecture/Lecture 6.md",
+    "zleelb/Notes/Computer Architecture/SISD.md",
+    "zleelb/Templates/Basic note template Comp Arch Text.md",
+    "zleelb/Templates/Basic note template linux.md",
     "zleelb/Notes/linux/terminal.md",
+    "zleelb/Notes/Computer Architecture",
+    "zleelb/Notes/linux/shell.md",
+    "zleelb/Notes/linux/SNMP.md",
+    "zleelb/Notes/linux/streams.md",
     "zleelb/Notes/git/git checkout.md",
     "zleelb/Notes/linux/Scripts.md",
-    "Tmux.md",
+    "zleelb/Notes/linux/Tmux.md",
     "zleelb/Notes/git/git cat-file.md",
     "zleelb/Images/Pasted image 20240719112559.png",
     "zleelb/Notes/linux/Linux memory management.md",
@@ -214,24 +180,10 @@
     "zleelb/Notes",
     "zleelb/Notes/linux/POSIX.md",
     "zleelb/Notes/linux/BIOS.md",
-    "zleelb/Notes/linux/lscpu.md",
-    "zleelb/Notes/linux/x86 architecture.md",
-    "zleelb/Notes/linux/RISC.md",
-    "zleelb/Notes/linux/Device Drivers.md",
-    "zleelb/Notes/linux/syscalls.md",
-    "zleelb/Notes/linux/modules.md",
     "zleelb/Images/Pasted image 20240717144441.png",
-    "zleelb/Notes/linux/strace.md",
-    "zleelb/Notes/git/HEAD.md",
     "zleelb/Images/Pasted image 20240717143201.png",
     "zleelb/Images/Pasted image 20240717142512.png",
-    "zleelb/Notes/git/git push.md",
-    "zleelb/Notes/c/fscanf.md",
-    "zleelb/Notes/linux/Linux filesystems.md",
-    "zleelb/Notes/linux/Linux networking.md",
     "zleelb/Images/Pasted image 20240717135554.png",
-    "zleelb/Notes/linux/Linux process management.md",
-    "zleelb/Notes/linux/ps.md",
     "4913"
   ]
 }
