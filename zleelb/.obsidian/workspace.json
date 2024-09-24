@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md",
+                "file": "Notes/Computer Architecture/Lectures/Lecture 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md",
+                "file": "Notes/Computer Architecture/Lectures/Lecture 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md",
+                "file": "Notes/Computer Architecture/Lectures/Lecture 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md"
+                "file": "Notes/Computer Architecture/Lectures/Lecture 9.md"
               }
             }
           },
@@ -167,8 +167,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d69d44002e7f4064",
+  "active": "3ddcd9a837c32070",
   "lastOpenFiles": [
+    "Notes/Computer Architecture/Lectures/Lecture 6.md",
+    "Notes/Computer Architecture/Lectures/Lecture 8.md",
+    "Notes/Computer Architecture/Lectures/Lecture 9.md",
+    "Hubs/Computer Architecture.md",
     "Notes/Computer Architecture/Lectures",
     "Templates/Basic note template Comp Arch Text.md",
     "Notes/linux/terminal.md",
@@ -182,15 +186,12 @@
     "Notes/Computer Architecture/SISD.md",
     "Notes/Computer Architecture/instruction-level parallelism.md",
     "Notes/Computer Architecture/cache.md",
-    "Notes/Computer Architecture/Lectures/Lecture 6.md",
     "Notes/Computer Architecture/cache miss.md",
     "Notes/Computer Architecture/advanced cache optimizations.md",
     "Notes/Computer Architecture/cache hit.md",
     "Notes/Computer Architecture/basic cache optimizations.md",
     "Notes/Computer Architecture",
-    "Hubs/Computer Architecture.md",
     "Lecture 6.md",
-    "Notes/Computer Architecture/Lectures/Lecture 8.md",
     "Images/Pasted image 20240714143534.png",
     "Images/Pasted image 20240912100353.png",
     "Images/Pasted image 20240912095950.png",
@@ -212,7 +213,6 @@
     "imgs",
     "imgs/Pasted image 20240714143534.png",
     "Hubs",
-    "Templates",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
