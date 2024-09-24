@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 6.md",
+                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47e9e8fc1d49474e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 6.md",
+                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 6.md",
+                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 6.md"
+                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md"
               }
             }
           },
@@ -155,10 +167,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ddcd9a837c32070",
+  "active": "d69d44002e7f4064",
   "lastOpenFiles": [
-    "Images/Pasted image 20240714143534.png",
+    "Notes/Computer Architecture/Lectures",
+    "Templates/Basic note template Comp Arch Text.md",
+    "Notes/linux/terminal.md",
+    "Notes/linux/streams.md",
+    "Notes/linux/shell.md",
+    "Notes/linux/Tmux.md",
+    "Notes/linux/Scripts.md",
+    "Notes/linux/SNMP.md",
+    "Notes/Computer Architecture/temporal locality.md",
+    "Notes/Computer Architecture/spatial locality.md",
+    "Notes/Computer Architecture/SISD.md",
+    "Notes/Computer Architecture/instruction-level parallelism.md",
+    "Notes/Computer Architecture/cache.md",
+    "Notes/Computer Architecture/Lectures/Lecture 6.md",
+    "Notes/Computer Architecture/cache miss.md",
+    "Notes/Computer Architecture/advanced cache optimizations.md",
+    "Notes/Computer Architecture/cache hit.md",
+    "Notes/Computer Architecture/basic cache optimizations.md",
+    "Notes/Computer Architecture",
+    "Hubs/Computer Architecture.md",
     "Lecture 6.md",
+    "Notes/Computer Architecture/Lectures/Lecture 8.md",
+    "Images/Pasted image 20240714143534.png",
     "Images/Pasted image 20240912100353.png",
     "Images/Pasted image 20240912095950.png",
     "Notes/git/git clone.md",
@@ -166,25 +199,6 @@
     "Notes/git/git push.md",
     "Notes/git/git branch.md",
     "Notes/git/git fetch.md",
-    "Notes/git/git remote.md",
-    "Notes/git/git merge.md",
-    "Notes/git/git commit.md",
-    "git/git merge.md",
-    "Templates/Basic note template linux.md",
-    "Templates/Basic note template c.md",
-    "Notes/go/module.md",
-    "Notes/go/Lets GO.md",
-    "Notes/go/GO module.md",
-    "Notes/go/Host name matching.md",
-    "Notes/go/go run command.md",
-    "Notes/go/Default servemux.md",
-    "Notes/linux/x86 architecture.md",
-    "Notes/linux/RISC.md",
-    "Notes/linux/ps.md",
-    "Notes/linux/syscalls.md",
-    "Notes/linux/strace.md",
-    "Notes/linux/POSIX.md",
-    "Notes/linux/modules.md",
     "Notes/go",
     "Notes/linux",
     "Notes/git",
@@ -200,7 +214,6 @@
     "Hubs",
     "Templates",
     "Untitled.canvas",
-    "go",
     "Untitled 1.canvas"
   ]
 }
