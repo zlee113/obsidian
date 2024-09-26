@@ -50,3 +50,8 @@ https://csillustrated.berkeley.edu/PDFs/handouts/cache-3-associativity-handout.p
 - increase cache bandwidth
 - reduce miss penalty
 - reduce miss penalty or miss rate via parallelism
+
+##### Direct Mapped bits
+- offset is exponent of 2 ^ number of bytes per line or block
+- Index is the exponent of 2 ^ number of lines or blocks
+- tag is the number of bits in the physical address minus the calculated offset and index
