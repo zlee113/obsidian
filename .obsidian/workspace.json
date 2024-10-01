@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "562fdbfe1d25b77e",
+        "id": "9053257e88a4e884",
         "type": "tabs",
         "children": [
           {
-            "id": "19b0b9e8c5592991",
+            "id": "0987e0b4cd72a2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zleelb/Notes/Computer Architecture/spatial locality.md",
+                "file": "block replacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zleelb/Notes/Computer Architecture/spatial locality.md",
+                "file": "block replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zleelb/Notes/Computer Architecture/spatial locality.md",
+                "file": "block replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zleelb/Notes/Computer Architecture/spatial locality.md"
+                "file": "block replacement.md"
               }
             }
           }
@@ -147,9 +147,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7b7e10ec6b1174d",
+  "active": "0987e0b4cd72a2ff",
   "lastOpenFiles": [
     "zleelb/Hubs/Computer Architecture.md",
+    "block replacement.md",
+    "zleelb/Notes/Computer Architecture/block identification.md",
+    "zleelb/Images/Pasted image 20241001162215.png",
+    "zleelb/Notes/Computer Architecture/block placement.md",
+    "zleelb/Images/Pasted image 20241001161112.png",
+    "zleelb/Notes/Computer Architecture/misses per instruction.md",
+    "Untitled.md",
+    "zleelb/Notes/Computer Architecture/miss rate.md",
+    "zleelb/Notes/Computer Architecture/memory stall cycles.md",
+    "zleelb/Notes/Computer Architecture/bandwidth.md",
+    "zleelb/Notes/Computer Architecture/virtual memory.md",
+    "zleelb/Images/Pasted image 20240924133720.png",
+    "zleelb/Notes/Computer Architecture/page.md",
+    "zleelb/Notes/Computer Architecture/latency.md",
+    "zleelb/Notes/Computer Architecture/Lectures/Lecture 9.md",
+    "zleelb/Notes/Computer Architecture/Lectures/Lecture 8.md",
+    "zleelb/Notes/Computer Architecture/Lectures/Lecture 6.md",
+    "zleelb/Notes/Computer Architecture/Lectures",
     "zleelb/Notes/Computer Architecture/spatial locality.md",
     "zleelb/Notes/Computer Architecture/temporal locality.md",
     "zleelb/Notes/Computer Architecture/cache miss.md",
@@ -161,25 +179,11 @@
     "zleelb/Notes/Computer Architecture/Untitled.md",
     "zleelb/Notes/Computer Architecture/Lecture 6.md",
     "zleelb/Notes/Computer Architecture/SISD.md",
-    "zleelb/Templates/Basic note template Comp Arch Text.md",
-    "zleelb/Templates/Basic note template linux.md",
-    "zleelb/Notes/linux/terminal.md",
     "zleelb/Notes/Computer Architecture",
-    "zleelb/Notes/linux/shell.md",
-    "zleelb/Notes/linux/SNMP.md",
-    "zleelb/Notes/linux/streams.md",
-    "zleelb/Notes/git/git checkout.md",
-    "zleelb/Notes/linux/Scripts.md",
-    "zleelb/Notes/linux/Tmux.md",
-    "zleelb/Notes/git/git cat-file.md",
     "zleelb/Images/Pasted image 20240719112559.png",
-    "zleelb/Notes/linux/Linux memory management.md",
-    "zleelb/Notes/linux/Linux Kernel.md",
     "zleelb/Notes/c",
     "zleelb/Notes/linux",
     "zleelb/Notes",
-    "zleelb/Notes/linux/POSIX.md",
-    "zleelb/Notes/linux/BIOS.md",
     "zleelb/Images/Pasted image 20240717144441.png",
     "zleelb/Images/Pasted image 20240717143201.png",
     "zleelb/Images/Pasted image 20240717142512.png",
