@@ -1,6 +1,6 @@
 Date: 2024-09-24
 Hub: [[Computer Architecture]]
-Tags: #book
+Tags: #class
 URL/Title: Memory Hierarchy
 
 ##### Reduce Miss Rate: Code Optimization
