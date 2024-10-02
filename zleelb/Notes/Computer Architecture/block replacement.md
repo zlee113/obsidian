@@ -13,4 +13,3 @@ Strategies:
 - Least recently used (LRU): Reduce chances of replacing something used often we can replace the least accessed element. LRU relies on locality
 - First in, first out (FIFO): LRU can be complicated to calculate, so replaced oldest block
 - Pseudo LRU: creates a tree to pseudo do lru but don't have to take as much time for a similar result
-- 
