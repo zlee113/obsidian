@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "block replacement.md",
+                "file": "zleelb/Notes/Computer Architecture/block replacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "block replacement.md",
+                "file": "zleelb/Notes/Computer Architecture/block replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "block replacement.md",
+                "file": "zleelb/Notes/Computer Architecture/block replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "block replacement.md"
+                "file": "zleelb/Notes/Computer Architecture/block replacement.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0987e0b4cd72a2ff",
+  "active": "a7b7e10ec6b1174d",
   "lastOpenFiles": [
+    "zleelb/Notes/Computer Architecture/Lectures/Lecture 10.md",
     "zleelb/Hubs/Computer Architecture.md",
-    "block replacement.md",
+    "zleelb/Notes/Computer Architecture/block replacement.md",
     "zleelb/Notes/Computer Architecture/block identification.md",
     "zleelb/Images/Pasted image 20241001162215.png",
     "zleelb/Notes/Computer Architecture/block placement.md",
@@ -178,7 +179,6 @@
     "zleelb/Notes/Computer Architecture/basic cache optimizations.md",
     "zleelb/Notes/Computer Architecture/Untitled.md",
     "zleelb/Notes/Computer Architecture/Lecture 6.md",
-    "zleelb/Notes/Computer Architecture/SISD.md",
     "zleelb/Notes/Computer Architecture",
     "zleelb/Images/Pasted image 20240719112559.png",
     "zleelb/Notes/c",
