@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1dda8fdb76d1ed9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Computer Architecture/page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbc801f28da5fee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Computer Architecture/VIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98097592429960a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tlb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tlb.md",
+                "file": "Notes/Computer Architecture/Papers/Week 5 paper 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tlb.md",
+                "file": "Notes/Computer Architecture/Papers/Week 5 paper 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tlb.md"
+                "file": "Notes/Computer Architecture/Papers/Week 5 paper 1.md"
               }
             }
           },
@@ -192,11 +155,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98097592429960a3",
+  "active": "16bcabdbb15a9538",
   "lastOpenFiles": [
+    "Notes/Computer Architecture/page.md",
     "Notes/Computer Architecture/VIPT.md",
     "tlb.md",
-    "Notes/Computer Architecture/page.md",
     "Notes/Computer Architecture/cache memory.md",
     "Notes/Computer Architecture/Papers/Week 5 paper 1.md",
     "Notes/Computer Architecture/Lectures/Lecture 10.md",
