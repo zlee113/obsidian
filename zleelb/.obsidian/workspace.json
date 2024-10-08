@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "1b613803c6f8138b",
+        "id": "0efceb84a875c5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3ddcd9a837c32070",
+            "id": "16bcabdbb15a9538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 10.md",
+                "file": "Notes/Computer Architecture/Papers/Week 5 paper 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "47e9e8fc1d49474e",
+            "id": "1dda8fdb76d1ed9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 8.md",
+                "file": "Notes/Computer Architecture/page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbc801f28da5fee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Computer Architecture/VIPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98097592429960a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tlb.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 10.md",
+                "file": "tlb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 10.md",
+                "file": "tlb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Computer Architecture/Lectures/Lecture 10.md"
+                "file": "tlb.md"
               }
             }
           },
@@ -167,39 +192,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ddcd9a837c32070",
+  "active": "98097592429960a3",
   "lastOpenFiles": [
-    "Notes/Computer Architecture/Lectures/Lecture 8.md",
+    "Notes/Computer Architecture/VIPT.md",
+    "tlb.md",
+    "Notes/Computer Architecture/page.md",
+    "Notes/Computer Architecture/cache memory.md",
+    "Notes/Computer Architecture/Papers/Week 5 paper 1.md",
     "Notes/Computer Architecture/Lectures/Lecture 10.md",
+    "Notes/Computer Architecture/Papers",
+    "Notes/Computer Architecture/Lectures/Lecture 12.md",
     "Notes/Computer Architecture/Lectures/Lecture 9.md",
+    "Notes/Computer Architecture/Lectures/Lecture 8.md",
     "Notes/Computer Architecture/Lectures/Lecture 6.md",
     "Hubs/Computer Architecture.md",
+    "Images/Pasted image 20240717135554.png",
+    "Images/Pasted image 20240714143534.png",
+    "Images/Pasted image 20241003094557.png",
+    "Notes/Computer Architecture/context switch.md",
+    "Notes/Computer Architecture/write strategy.md",
+    "Notes/Computer Architecture/virtual memory.md",
+    "Notes/Computer Architecture/misses per instruction.md",
+    "Notes/Computer Architecture/miss rate.md",
+    "Notes/Computer Architecture/memory stall cycles.md",
+    "Notes/Computer Architecture/latency.md",
+    "Notes/Computer Architecture/block replacement.md",
+    "Notes/Computer Architecture/block placement.md",
+    "Notes/Computer Architecture/block identification.md",
+    "Notes/Computer Architecture/bandwidth.md",
+    "Images/Pasted image 20241001162215.png",
+    "Images/Pasted image 20241001161112.png",
+    "Images/Pasted image 20240924133720.png",
     "Notes/Computer Architecture/Lectures",
     "Templates/Basic note template Comp Arch Text.md",
     "Notes/linux/terminal.md",
     "Notes/linux/streams.md",
     "Notes/linux/shell.md",
-    "Notes/linux/Tmux.md",
-    "Notes/linux/Scripts.md",
-    "Notes/linux/SNMP.md",
-    "Notes/Computer Architecture/temporal locality.md",
-    "Notes/Computer Architecture/spatial locality.md",
-    "Notes/Computer Architecture/SISD.md",
-    "Notes/Computer Architecture/instruction-level parallelism.md",
-    "Notes/Computer Architecture/cache.md",
-    "Notes/Computer Architecture/cache miss.md",
-    "Notes/Computer Architecture/advanced cache optimizations.md",
-    "Notes/Computer Architecture/cache hit.md",
-    "Notes/Computer Architecture/basic cache optimizations.md",
     "Notes/Computer Architecture",
-    "Lecture 6.md",
-    "Images/Pasted image 20240714143534.png",
     "Images/Pasted image 20240912100353.png",
     "Images/Pasted image 20240912095950.png",
-    "Notes/git/git clone.md",
-    "Notes/git/HEAD.md",
-    "Notes/git/git push.md",
-    "Notes/git/git branch.md",
     "Notes/go",
     "Notes/linux",
     "Notes/git",
@@ -207,12 +238,8 @@
     "Notes",
     "Images/Pasted image 20240717143201.png",
     "Images/Pasted image 20240717144441.png",
-    "Images/Pasted image 20240717142512.png",
-    "Images/Pasted image 20240717135554.png",
     "Images",
     "imgs",
-    "imgs/Pasted image 20240714143534.png",
-    "Hubs",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
