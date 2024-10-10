@@ -13,8 +13,10 @@ URL/Title: Virtual Address
 	- Flush cache on [[context switch]]
 
 ##### Physically-Indexed Physically-Tagged (PIPT) Cache:
-- slow
+- slow, more in [[Lecture 11]]
 
 ### Virtually-Indexed Physically-Tagged (VIPT)
 ![[Pasted image 20241003094557.png]]
 - Starts with both tag and index being virtual and then tag goes through tlb before comparator to get the physical address
+- Synonym in VIPT
+	- If indexes of two VPN page offsets are the same

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9053257e88a4e884",
+        "id": "49a17be6f51659eb",
         "type": "tabs",
         "children": [
           {
-            "id": "0987e0b4cd72a2ff",
+            "id": "5f154014096e7094",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zleelb/Notes/Computer Architecture/write strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57ef30e995c23eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zleelb/Notes/Computer Architecture/Papers/Week 5 paper 1.md",
+                "file": "zleelb/Notes/Computer Architecture/Lectures/Lecture 12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zleelb/Notes/Computer Architecture/Papers/Week 5 paper 1.md",
+                "file": "zleelb/Notes/Computer Architecture/Lectures/Lecture 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zleelb/Notes/Computer Architecture/Papers/Week 5 paper 1.md",
+                "file": "zleelb/Notes/Computer Architecture/Lectures/Lecture 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zleelb/Notes/Computer Architecture/Papers/Week 5 paper 1.md"
+                "file": "zleelb/Notes/Computer Architecture/Lectures/Lecture 12.md"
               }
             }
           }
@@ -160,10 +147,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57ef30e995c23eae",
+  "active": "5f154014096e7094",
   "lastOpenFiles": [
+    "zleelb/Notes/Computer Architecture/Lectures/Lecture 11.md",
+    "zleelb/Notes/Computer Architecture/Lectures/Lecture 12.md",
     "zleelb/Notes/Computer Architecture/write strategy.md",
+    "zleelb/Notes/Computer Architecture/context switch.md",
+    "zleelb/Notes/Computer Architecture/tlb.md",
     "zleelb/Notes/Computer Architecture/Papers/Week 5 paper 1.md",
+    "zleelb/Notes/Computer Architecture/cache memory.md",
+    "zleelb/Notes/Computer Architecture/VIPT.md",
+    "zleelb/Images/Pasted image 20241003094557.png",
     "zleelb/Notes/Computer Architecture/Papers",
     "zleelb/Hubs/Computer Architecture.md",
     "zleelb/Notes/Computer Architecture/block replacement.md",
@@ -187,11 +181,6 @@
     "zleelb/Notes/Computer Architecture/spatial locality.md",
     "zleelb/Notes/Computer Architecture/temporal locality.md",
     "zleelb/Notes/Computer Architecture/cache miss.md",
-    "zleelb/Notes/Computer Architecture/cache hit.md",
-    "zleelb/Notes/Computer Architecture/cache.md",
-    "zleelb/Notes/Computer Architecture/instruction-level parallelism.md",
-    "zleelb/Notes/Computer Architecture/advanced cache optimizations.md",
-    "zleelb/Notes/Computer Architecture/basic cache optimizations.md",
     "zleelb/Notes/Computer Architecture",
     "zleelb/Images/Pasted image 20240719112559.png",
     "zleelb/Notes/c",
